@@ -1,6 +1,7 @@
 # Introduction to Linux
 
 ## Topics
+1. Setup a Github account
 
 1. Cybersecurity
   1. What are you securing
